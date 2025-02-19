@@ -1,0 +1,14 @@
+2025-02-16 19:23:45,081 - INFO - Checked/Created sales table in database.
+2025-02-16 19:25:00,131 - INFO - Starting ETL Process...
+2025-02-16 19:25:00,137 - INFO - Checked/Created sales table in database.
+2025-02-16 19:25:00,153 - ERROR - Failed to extract data: [Errno 2] No such file or directory: 'sales_data.csv'
+2025-02-16 19:25:00,158 - WARNING - No data to transform.
+2025-02-16 19:25:00,158 - WARNING - No data to load.
+2025-02-16 19:25:00,158 - INFO - ETL Process Completed!
+2025-02-16 19:28:16,005 - INFO - Checked/Created sales table in database.
+2025-02-16 19:29:00,036 - INFO - Starting ETL Process...
+2025-02-16 19:29:00,039 - INFO - Checked/Created sales table in database.
+2025-02-16 19:29:00,101 - INFO - Extracted 3 records from CSV file.
+2025-02-16 19:29:00,125 - INFO - Transformed data successfully.
+2025-02-16 19:29:00,161 - INFO - Loaded 3 new records into the database.
+2025-02-16 19:29:00,161 - INFO - ETL Process Completed!

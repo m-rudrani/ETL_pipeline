@@ -1,0 +1,4 @@
+order_id,product,quantity,price,sale_date
+101,Phone,2,500,2025-02-15
+102,Laptop,1,1000,2025-02-15
+103,Headphones,3,100,2025-02-16

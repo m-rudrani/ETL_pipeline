@@ -1,0 +1,6 @@
+2025-02-17 14:59:20,140 - INFO - Starting ETL Process...
+2025-02-17 14:59:20,155 - INFO - Checked/Created sales table in database.
+2025-02-17 14:59:35,516 - INFO - Extracted 20 records from API.
+2025-02-17 14:59:35,553 - INFO - Transformed data successfully.
+2025-02-17 14:59:35,593 - INFO - Loaded 20 new records into the database.
+2025-02-17 14:59:35,593 - INFO - ETL Process Completed!
